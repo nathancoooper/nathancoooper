@@ -17,3 +17,7 @@ Outside of college, most of my learning takes place on Anki.
 - Latin
 - British Sign Language
 - Korean
+
+<br><br>
+
+*You can find me on [Mastodon](https://mastodon.social/web/@nathanjohncooper), [Lemmy](https://lemmy.ml/u/cooper), [Pixelfed](https://pixelfed.social/i/web/profile/408631124864164448), and [Matrix](https://app.element.io/#/user/@kingcooper:matrix.org).*
