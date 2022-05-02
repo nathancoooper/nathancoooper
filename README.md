@@ -17,6 +17,7 @@ Outside of college, most of my learning takes place on Anki.
 - Latin
 - British Sign Language
 - Korean
+- Afrikaans
 - Piano
 - Guitar
 
